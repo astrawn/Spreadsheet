@@ -1,0 +1,10 @@
+C:\Users\Alex Strawn\cpts321-spring2020\Spreadsheet_Alex_Strawn\ExpressionTreeConsoleApp\bin\Debug\ExpressionTreeConsoleApp.exe.config
+C:\Users\Alex Strawn\cpts321-spring2020\Spreadsheet_Alex_Strawn\ExpressionTreeConsoleApp\bin\Debug\ExpressionTreeConsoleApp.exe
+C:\Users\Alex Strawn\cpts321-spring2020\Spreadsheet_Alex_Strawn\ExpressionTreeConsoleApp\bin\Debug\ExpressionTreeConsoleApp.pdb
+C:\Users\Alex Strawn\cpts321-spring2020\Spreadsheet_Alex_Strawn\ExpressionTreeConsoleApp\bin\Debug\SpreadSheetEngine.dll
+C:\Users\Alex Strawn\cpts321-spring2020\Spreadsheet_Alex_Strawn\ExpressionTreeConsoleApp\bin\Debug\SpreadSheetEngine.pdb
+C:\Users\Alex Strawn\cpts321-spring2020\Spreadsheet_Alex_Strawn\ExpressionTreeConsoleApp\obj\Debug\ExpressionTreeConsoleApp.csprojAssemblyReference.cache
+C:\Users\Alex Strawn\cpts321-spring2020\Spreadsheet_Alex_Strawn\ExpressionTreeConsoleApp\obj\Debug\ExpressionTreeConsoleApp.csproj.CopyComplete
+C:\Users\Alex Strawn\cpts321-spring2020\Spreadsheet_Alex_Strawn\ExpressionTreeConsoleApp\obj\Debug\ExpressionTreeConsoleApp.exe
+C:\Users\Alex Strawn\cpts321-spring2020\Spreadsheet_Alex_Strawn\ExpressionTreeConsoleApp\obj\Debug\ExpressionTreeConsoleApp.pdb
+C:\Users\Alex Strawn\cpts321-spring2020\Spreadsheet_Alex_Strawn\ExpressionTreeConsoleApp\obj\Debug\ExpressionTreeConsoleApp.csproj.CoreCompileInputs.cache

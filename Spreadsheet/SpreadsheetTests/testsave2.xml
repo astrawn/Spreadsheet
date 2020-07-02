@@ -1,0 +1,10 @@
+<spreadsheet>
+  <cell column="0" row="0">
+    <text>22</text>
+    <color>FFFFFFFF</color>
+  </cell>
+  <cell column="2" row="11">
+    <text>=A1</text>
+    <color>FF00FF40</color>
+  </cell>
+</spreadsheet>

@@ -1,0 +1,6 @@
+<spreadsheet>
+ <cell unusedattr="abc" column="1" row="0"> <text>=A1+6</text>
+ <some_tag_you_didnt_write>blah</some_tag_you_didnt_write>
+ <color>FF8000</color> <another_unused_tag>data</another_unused_tag>
+ </cell>
+</spreadsheet>
